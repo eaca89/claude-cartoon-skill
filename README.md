@@ -1,3 +1,5 @@
+> **Moved:** this repository now lives at https://github.com/eaca89/microlearn/tree/main/skills/claude-cartoon-skill
+
 # /cartoon: a Claude skill that turns a story into a cartoon
 
 Give Claude a story and this skill makes a short cartoon film from code: outlined characters, a night palette with warm lit windows, camera moves and sound effects, delivered as an MP4. No AI video generator is used.
